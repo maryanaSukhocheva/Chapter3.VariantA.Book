@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *
- * @author SLAVA
+ * @author Sukhocheva Maryana
  */
 public class OutputData {
     
